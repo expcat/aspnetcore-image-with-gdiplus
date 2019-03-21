@@ -1,4 +1,4 @@
-FROM microsoft/dotnet:2.2.3-aspnetcore-runtime
+FROM mcr.microsoft.com/dotnet/core/aspnet:2.2.3
 RUN apt-get update \
     && apt-get install -y --no-install-recommends \
     libgdiplus \
