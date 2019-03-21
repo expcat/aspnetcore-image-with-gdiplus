@@ -18,5 +18,5 @@ Asp.net core docker image with libgdiplus
 
 ```
 git tag -a <tag> -m <message>
-git push --tags <tag>
+git push --tags
 ```
