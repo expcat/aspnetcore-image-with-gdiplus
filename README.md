@@ -12,7 +12,7 @@ Asp.net core docker image with libgdiplus
 
 # tags
 
-- latest, 2.2.3
+- latest, 2.2.4
 
 # Git Command
 

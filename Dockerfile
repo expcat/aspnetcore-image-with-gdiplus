@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/core/aspnet:2.2.3
+FROM mcr.microsoft.com/dotnet/core/aspnet:2.2.4
 # RUN mv /etc/apt/sources.list /etc/apt/sources.list.bak && \
 #     echo "deb http://mirrors.163.com/debian/ stretch main non-free contrib" >/etc/apt/sources.list && \
 #     echo "deb http://mirrors.163.com/debian/ stretch-updates main non-free contrib" >>/etc/apt/sources.list && \
